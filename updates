@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1, G TV
+http://172.50.50.66:8080/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2, Bangla Vision
+https://tempdfn.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8?nimblesessionid=1004966&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMTE6MDI6NTcgUE0maGFzaF92YWx1ZT1kdVRHZEcvaExhaFVtaTlJTzMrWk1BPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
